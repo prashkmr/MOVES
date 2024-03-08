@@ -11,4 +11,4 @@ Instructions to train MOVES using CARLA dataset
 
 3) To evaluate the model on the test set, run the following command
 
-    python eval_carla_final_chamfer.py --ae_weight runs/testtest/gen_[index].pth --data [path to the before the test folder]
+    python eval_chamfer.py --ae_weight runs/testtest/gen_[index].pth --data [path to the before the test folder]
