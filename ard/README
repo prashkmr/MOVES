@@ -1,0 +1,16 @@
+Instructions to train MOVES using CARLA dataset
+
+1) Download the ARD datast from the link here and the test dataset from here. Copy the training data in a folder with name 'lidar' in the current directory. 
+
+2) Go inside the CARLA folder. to train the model run the following command
+
+    python MOVES.py --data [location to the before the 'lidar' folder] --log [name of the log]
+
+    The weights are stored in the runs/test folder
+
+
+3) To evaluate the model on the test set, run the following command
+
+    python eval_chamfer_and_save_npy.py --ae_weight runs/test[logfolder]/gen_[index].pth --data [path to the before the test folder]
+
+
