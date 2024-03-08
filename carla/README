@@ -14,3 +14,4 @@ Instructions to train MOVES using CARLA dataset
     python eval_carla_final_chamfer.py --ae_weight runs/testtest/gen_[index].pth --data [path to the before the test folder]
 
 
+[[Dynamic-raw]](https://www.kaggle.com/ssahoodotinfinity/carla64-dynamic-lidar-dataset) (86 GB)
