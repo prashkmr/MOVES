@@ -1,0 +1,1 @@
+{"batch_size": 64, "loss": 1, "base_dir": "runs/test", "dis_iters": 1, "no_polar": 0, "optim": "rmsprop", "pose_dim": 160, "data": "/home/prashant/../scratch/prashant/martini-scratch-v1/data/DSLR/", "log": "test", "autoencoder": 1, "z_dim": 160, "ae_weight": "../carla/runs/testtest/gen_0.pth", "gen_lr": 0.0001, "dis_lr": 0.0001}
