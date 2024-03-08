@@ -1,6 +1,6 @@
 Instructions to train MOVES using CARLA dataset
 
-1) Download the prepared KITTI datast from the link here and the test dataset from here. Copy the training data in a folder with name 'kitti' in the current directory. 
+1) Download the prepared KITTI train and test datast from the link [here](https://www.kaggle.com/datasets/prashk1312/kitti-sequence-extracted-train-test). Copy the data in a folder with name 'kitti' in the current directory. 
 
 2) Go inside the CARLA folder. to train the model run the following command
 
