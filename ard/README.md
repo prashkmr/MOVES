@@ -1,4 +1,4 @@
-Instructions to train MOVES using CARLA dataset
+**Instructions to train MOVES using CARLA dataset**
 
 1) Download the ARD training and testing dataset from [here](https://www.kaggle.com/datasets/prashk1312/ati-preprocess). Copy the datasetin a folder with name 'lidar' in the current directory. 
 
