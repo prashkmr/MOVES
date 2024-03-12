@@ -1,4 +1,4 @@
-Instructions to train MOVES using CARLA dataset
+**Instructions to train MOVES using CARLA dataset**
 
 1) Download the paired correspondence CARLA training datast from the line [here](https://www.kaggle.com/datasets/ssahoodotinfinity/carla-64-training) (9 GB) here and the test dataset from [here](https://www.kaggle.com/datasets/ssahoodotinfinity/carla64-preprocessed-range-image-dataset) (4 GB). Copy the training data in a folder with name 'train' in the current directory. For the test, put the test data in a folder 'test'
 
