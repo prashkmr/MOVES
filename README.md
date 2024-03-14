@@ -1,4 +1,4 @@
-
+# CODE FOR MOVES
 The training codes for the differnet datasets is available in the separate folder. Simply download the dataset and follow the instruction to start training the model.
 
 
